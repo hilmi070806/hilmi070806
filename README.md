@@ -85,3 +85,4 @@ A personal portfolio website to showcase my projects and development journey.
 ---
 
 ⭐ **"Code. Learn. Build. Repeat."**
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:007CF0,100:00F7FF&height=120&section=footer"/>
