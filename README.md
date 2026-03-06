@@ -57,27 +57,12 @@ A personal portfolio website to showcase my projects and development journey.
 
 ## 📊 GitHub Stats
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME&theme=tokyonight"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight"/>
-</p>
-
----
+<img src="https://github-readme-stats.vercel.app/api?username=hilmi070806&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hilmi070806&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=hilmi070806&theme=tokyonight"/>
 
 ## 🐍 Contribution Snake
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/USERNAME/USERNAME/output/github-contribution-grid-snake.svg"/>
-</p>
-
----
+<img src="https://raw.githubusercontent.com/hilmi070806/hilmi070806/output/github-contribution-grid-snake.svg"/>
 
 ## 🤝 Connect With Me
 
