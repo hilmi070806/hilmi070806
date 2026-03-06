@@ -1,3 +1,4 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:007CF0&height=200&section=header&text=Ikram%20Hilmi&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
 <h1 align="center">Hi 👋, I'm Ikram Hilmi</h1>
 
 <p align="center">
