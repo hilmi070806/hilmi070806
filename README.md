@@ -64,8 +64,6 @@ A personal portfolio website to showcase my projects and development journey.
 ---
 [![](https://visitcount.itsvg.in/api?id=hilmi070806&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
 ## 📈 Coding Activity
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hilmi070806&theme=tokyo-night)
