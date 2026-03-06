@@ -1,39 +1,70 @@
-<h1 align="center">Hi 👋, I'm Ikram</h1>
+<h1 align="center">Hi there 👋, I'm Ikram Hilmi</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Web+Developer;PHP+%7C+MySQL+%7C+JavaScript;Future+Senior+Engineer;Building+Technology+That+Helps+People" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=25&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Informatics+Student;Future+Senior+Software+Engineer;Full+Stack+Web+Developer;Building+Projects+Everyday;Always+Learning+New+Things" />
 </p>
 
 ---
 
-### 👨‍💻 About Me
-- 💻 Web Developer
-- 🌱 Currently learning **Web & Mobile Development**
-- 🚀 Building projects to improve my skills
-- 🎯 Goal: Become a **Senior Software Engineer**
-- ⚡ Love solving problems with technology
+## 🚀 About Me
+
+💻 Informatics student who loves building web applications  
+🌱 Currently learning **Full Stack Development**  
+🛠️ Passionate about **creating useful software and solving problems with code**  
+📚 Always learning new technologies and improving my coding skills  
+🎯 Future goal: **Become a Senior Software Engineer and lead a developer team**
 
 ---
 
-### 🛠 Tech Stack
-- HTML
-- CSS
-- JavaScript
-- PHP
-- MySQL
-- Git## Hi there 👋
+## 🧑‍💻 Tech Stack
 
-<!--
-**hilmi070806/hilmi070806** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💡 Languages  
+- HTML  
+- CSS  
+- JavaScript  
+- Java  
+- PHP  
 
-Here are some ideas to get you started:
+⚙️ Tools & Frameworks  
+- React  
+- Vite  
+- XAMPP  
+- MySQL  
+- Git & GitHub  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📂 Projects
+
+Here are some projects I've worked on:
+
+🧾 **Web POS / Cashier System**  
+A web-based cashier system with admin dashboard and transaction features.
+
+🌙 **Ramadhan Website**  
+A website with Islamic features like prayer times, Qur'an, and Ramadhan utilities.
+
+📊 **Portfolio Website**  
+Personal portfolio to showcase my projects and development journey.
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+🌐 GitHub : https://github.com/USERNAME  
+
+---
+
+⭐ *"Code. Learn. Build. Repeat."*
